@@ -3,7 +3,7 @@ const Home = () => {
 
     <div>
 
-      <section className="min-h-screen flex items-center justify-center bg-[#FFEDFA]">
+      <section className="w-full min-h-screen flex items-center justify-center bg-[#FFEDFA]">
 
         <div className="text-center">
 
